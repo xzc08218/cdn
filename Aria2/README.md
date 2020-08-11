@@ -11,17 +11,29 @@ File Browser 用户名:ccaa'
 File Browser 密码:admin'
 
 常用命令
+
 安装成功后，您可以使用如下命令来管理CCAA：
 
 #进入CCAA管理界面
+
 ccaa
+
 #查看ccaa状态
+
 ccaa status
+
 #启动ccaa
+
 ccaa start
+
 #停止ccaa
+
 ccaa stop
+
 #重启ccaa
+
 ccaa restart
+
 #查看当前版本
+
 ccaa -v
