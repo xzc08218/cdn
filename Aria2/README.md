@@ -1,6 +1,6 @@
 安装命令
 
-bash <(curl -Lsk https://raw.githubusercontent.com/helloxz/ccaa/master/ccaa.sh) cdn
+bash <(curl -Lsk https://cdn.jsdelivr.net/gh/xzc08218/cdn/Aria2/ccaa.sh) cdn
 
 下载路径（请填写绝对地址，默认/data/ccaaDown）
 
